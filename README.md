@@ -7,17 +7,28 @@ The analysis covers various aspects, including identifying the best and worst se
 
 # The dataset includes the following columns:
 
-.Pizza_id: Unique identifier for each pizza.
+-Pizza_id`: Unique identifier for each pizza.
 
-.Pizza_name: Name of the pizza.
+-Pizza_name`: Name of the pizza.
 
-.Order_id: Unique identifier for each order.
+-Order_id`: Unique identifier for each order.
 
-.Order_date: Date when the order was placed.
+-Order_date`: Date when the order was placed.
 
-.Pizza_size: Size of the pizza.
+-Pizza_size`: Size of the pizza.
 
-.Quantity: Number of pizzas ordered.
+-Quantity`: Number of pizzas ordered.
+
+
+
+
+
+
+
+
+
+
+
 
 .Unit_sold: Price per pizza.
 
