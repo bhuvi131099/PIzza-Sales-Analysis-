@@ -19,6 +19,19 @@ The analysis covers various aspects, including identifying the best and worst se
 
 -Quantity`: Number of pizzas ordered.
 
+The dataset includes the following columns:
+
+`Pizza_id`: Unique identifier for each pizza.
+- `Pizza_name`: Name of the pizza.
+- `Order_id`: Unique identifier for each order.
+- `Order_date`: Date when the order was placed.
+- `Pizza_size`: Size of the pizza.
+- `Quantity`: Number of pizzas ordered.
+- `Unit_sold`: Price per pizza.
+- `Total_unit_sold`: Total revenue generated for each pizza.
+- `Order_time`: Timestamp indicating the time of the order.
+
+
 
 
 
